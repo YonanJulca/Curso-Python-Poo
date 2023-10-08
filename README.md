@@ -18,5 +18,5 @@ Este repositorio contiene material para un curso completo sobre Programación Or
 - **PRINCIPIOS SOLID**
   - SRP, OCP, LSP, ISP, DIP
 
-- ** Enlace al Curso en YouTube (dalto)
+- Enlace al Curso en YouTube (dalto)
 - https://www.youtube.com/watch?v=HtKqSJX7VoM&t=1s
